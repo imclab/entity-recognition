@@ -1,0 +1,2 @@
+TODO: get random sample of 1000 tweets https://stream.twitter.com/1.1/statuses/sample.json
+https://aclweb.org/anthology/D/D11/D11-1141.pdf

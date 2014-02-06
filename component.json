@@ -1,0 +1,9 @@
+{
+  "name": "entity-recognition",
+  "repo": "corpora/entity-recognition",
+  "description": "Entity Recognition component",
+  "version": "0.0.1",
+  "keywords": [],
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
