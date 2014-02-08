@@ -2,4 +2,7 @@
   "name": "entity-recognition",
   "version": "0.0.1",
   "main": "./index.js",
+  "dependencies": {
+    "pos": "~0.1.4"
+  }
 }
